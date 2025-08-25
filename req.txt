@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+numpy
+transformers
+pillow
+torch
+scikit-learn
+faiss-cpu
+langchain_groq
+hf_xet
